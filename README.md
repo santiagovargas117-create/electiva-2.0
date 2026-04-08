@@ -16,6 +16,10 @@ npm run check
 npm run build
 ```
 
+## Deploy
+
+El despliegue a GitHub Pages corre automaticamente con GitHub Actions en cada push a `main`.
+
 ## Estructura
 
 - `src/lib/core`: cliente HTTP, configuracion y adaptadores.
